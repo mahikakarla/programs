@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArrayInsertion{
+public class Insertion{
 
 public static void main(String [] args)
 {
@@ -38,6 +38,6 @@ public static void main(String [] args)
 		{
 			System.out.println("Array element " +i+ " is: " +arr[i]);
 		}		
-	
+	scanner.close();
 }
 }

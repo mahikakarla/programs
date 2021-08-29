@@ -8,5 +8,4 @@ print (first)
 
 del(first[0])
 
-
 print (first)
